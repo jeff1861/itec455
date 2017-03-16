@@ -43,6 +43,7 @@ $IPTABLES -A INPUT -s server -j DROP
 #Prem: Put your NAT/FORWARD rules here so your network doesn't break
 
 
+
 # helpful divisions:
 # EXISTING CONNECTIONS
 # --------------------
